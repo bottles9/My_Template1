@@ -243,7 +243,7 @@ h1::after {
 
 
 #promo {
-	background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(images/billboard.png);
+	background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(images/promo.jpg);
 	background-size: cover;
 	background-position: center;
 	color: #fff;
@@ -449,4 +449,14 @@ blockquote::after {
 	color: #007bff;
 	font-weight: bold;
 	
+}
+/*-----------End of Get in touch -----------------------*/
+
+/*---------------------Footer-----------------------*/
+
+
+#footer {
+	background: #333;
+	color: #fff;
+	padding: 12px;
 }
